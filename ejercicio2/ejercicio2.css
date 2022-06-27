@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+}
+
+.container-principal {
+    display: flex;
+    justify-content: center;
+}
+
+.container-1 {
+    margin-right: 5% !important;
+    
+}
+
+.container-2 {
+    margin-left: 3% !important;
+    background-color: antiquewhite;
+
+}
